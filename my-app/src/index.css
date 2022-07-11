@@ -13,3 +13,22 @@ code {
     monospace;
 }
 
+.Main{
+width: 516px;
+height: 310px;
+background-color: #252850;
+color:white;
+}
+h1{
+ max-width: 180px; 
+}
+p{
+  max-width: 250px; 
+  
+}
+
+.Second{
+width: 516px;
+height: 510px;
+}
+
