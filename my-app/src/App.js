@@ -6,6 +6,13 @@ import icon2 from './images/icon2.png';
 import icon3 from './images/icon3.png';
 import icon4 from './images/icon4.png';
 
+import LogoImage from "./components/LogoImage";
+import MenuImage from "./components/MenuImage";
+import HeaderText from "./components/HeaderText";
+import HeaderButton from "./components/HeaderButton";
+import MenuIcons from "./components/MenuIcons";
+
+
 function App() {
   return (
 <div className="App">
